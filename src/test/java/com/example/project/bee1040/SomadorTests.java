@@ -1,4 +1,4 @@
-package com.example.project.bee1001;
+package com.example.project.bee1040;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
